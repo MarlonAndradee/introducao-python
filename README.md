@@ -12,7 +12,4 @@ Este é um repositório para armazenar todos os códigos de resolução referent
 
 # Site do Autor
 
-python.nilo.pro.br  
-
-> “It is a mistake to think that the practice of my art has become easy to me. I assure you, dear friend, no one has given so much care to the study of composition as I. There is scarcely a famous master in music whose works I have not frequently and diligently studied.”
-― Wolfgang Amadeus Mozart 
+www.python.nilo.pro.br  
