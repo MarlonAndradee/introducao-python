@@ -1,6 +1,6 @@
 # Introdução à Programação com Python – 4ª Edição
 
-Este é um repositório para armazenar todos os códigos de resolução referentes aos exercicíos propostos no livro "Introdução à Programação com Python – 4ª Edição", de autoria de Nilo Ney Coutinho Menezes.
+Este é um repositório para armazenar todas as soluções referentes aos exercicíos propostos no livro "Introdução à Programação com Python – 4ª Edição", de autoria de Nilo Ney Coutinho Menezes.
 
 # Dados do Livro
 **Título:** Introdução à Programação com Python – 4ª Edição  
